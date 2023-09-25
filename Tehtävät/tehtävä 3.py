@@ -28,4 +28,3 @@ print(f"Yhtälöryhmän ratkaisu on: ", F)
 
 G = solve([x + y + 3*z + 1, 3*x + y + z - 5, 2*x + y + 2*z - 2], [x, y, z], dict=True)
 print(f"Yhtälöryhmän ratkaisu on: ", G)
-
