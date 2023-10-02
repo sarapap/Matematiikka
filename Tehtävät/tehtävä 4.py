@@ -21,3 +21,4 @@ for i in range(1,3):
         A2[i-1][j-1]=A2[i-1][j-1]*(i+1)
 
 print("(1+i)A= ", A2)
+
